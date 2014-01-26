@@ -1,6 +1,10 @@
-MANIFEST
-Makefile.PL
-README
+Build.PL
 Changes
-BetterScm.pm
+LICENSE
+MANIFEST
+META.json
 META.yml                                 Module meta-data (added by MakeMaker)
+README
+lib/Bundle/Sites/BetterScm.pm
+t/00-load.t
+t/pod.t
